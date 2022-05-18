@@ -1,1 +1,1 @@
-declare module '*.png'
+declare module 'boltz_logo.png'
