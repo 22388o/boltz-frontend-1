@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import App from '../src/views/index.js';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import Icons from '../asset/icons/boltz_logo.png';
+import Icons from './../../assets/icons/boltz_logo.png';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
