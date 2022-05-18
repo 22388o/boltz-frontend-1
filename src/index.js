@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import App from '../src/views/index.js';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-
+import '../asset/boltz_logo.png'
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
